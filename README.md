@@ -13,10 +13,10 @@
 - 👀 Hobbies other than coding: 📺 viewing interesting and useful videos
 - 📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com
 
-<p align="center"> 🌱 My tech stack: HTML, CSS, JS, React</p>
-<p align="center"> 🔬 Especially like: CSS</p>
-<p align="center"> 👀 Hobbies other than coding: 📺 viewing interesting and useful videos</p>
-<p align="center">📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com</p>
+<span align="center"> 🌱 My tech stack: HTML, CSS, JS, React</span><br>
+<span align="center"> 🔬 Especially like: CSS</span><br>
+<span align="center"> 👀 Hobbies other than coding: 📺 viewing interesting and useful videos</span><br>
+<span align="center">📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com</span>
 
 <p align="center">
   <a href="#">
