@@ -1,7 +1,5 @@
-<a href='#'>
-  <span>
-    <img src='./assets/coding.gif' style='display: inline; width: 100px;' />
-  </span>
+<a href='#' style='display: inline; width: 100px;'>
+  <img src='./assets/coding.gif' />
 </a>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
