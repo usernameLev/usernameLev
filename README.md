@@ -1,4 +1,4 @@
-<div style='display: flex; width: 200px; jusify-content: center;>
+<div style='display: flex; width: margin: 0 auto>
   <img src='./assets/coding.gif'>
 </div>
 
