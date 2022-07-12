@@ -19,7 +19,7 @@
     </a>
 </p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons&contribs=true&count_private=true&background=060A0CD0)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons&contribs=true&count_private=true&bg_color=0D1117)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameLev&hide_langs_below=1&layout=compact&langs_count=6&exclude_repo=puzzle,quiz)
 
