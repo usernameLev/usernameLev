@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<div style='display: flex; justify-content: space-around'>
+<div align="center">
     <a href="https://github.com/usernameLev?tab=repositories" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Lev's Github Stats" />
     </a>
