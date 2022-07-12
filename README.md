@@ -16,7 +16,7 @@
 <ul align="center">
   <li>🌱 My tech stack: HTML, CSS, JS, React</li>
   <li>
-    <ul align="center">
+    <ul>
   <li>🌱 My tech stack: HTML, CSS, JS, React</li>
   <li>🔬 Especially like: CSS</li>
 </ul>
