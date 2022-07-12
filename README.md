@@ -1,6 +1,6 @@
-<div style='width: 200px; text-align: center'>
+<center style='width: 200px; text-align: center'>
   <img src='./assets/coding.gif'>
-</div>
+</center>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
 
