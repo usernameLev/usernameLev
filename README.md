@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img width="460" height="300" src='./assets/coding.gif'>
+  <img width="460" src='./assets/coding.gif'>
 </p>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
