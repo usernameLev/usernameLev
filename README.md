@@ -19,16 +19,12 @@
 </a>
 </p>
 
-<p display="inline-block" align="left">
-  <a href="https://github.com/usernameLev?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Lev's Github Stats" />
-  </a>
-</p>
-  
-<p display="inline-block" align="right">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernameLev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Lev's Top Languages" />
-  </a>
-</p>
+<a href="https://github.com/usernameLev?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Lev's Github Stats" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernameLev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Lev's Top Languages" />
+</a>
 
 <img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=usernameLev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=000&hide_border=true&hide_title=true" alt="DenverCoder1's Activity Graph" />
