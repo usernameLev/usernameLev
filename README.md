@@ -1,6 +1,6 @@
-<center style='width: 200px; height: 200px'>
+<div style='display: block; width: 200px; margin: 0 auto'>
   <img src='./assets/coding.gif' align='middle'>
-</center>
+</div>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
 
