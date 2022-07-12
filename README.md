@@ -16,6 +16,7 @@
 <p align="center"> 🌱 My tech stack: HTML, CSS, JS, React</p>
 <p align="center"> 🔬 Especially like: CSS</p>
 <p align="center"> 👀 Hobbies other than coding: 📺 viewing interesting and useful videos</p>
+<p align="center">📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com</p>
 
 <p align="center">
   <a href="#">
