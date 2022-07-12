@@ -8,12 +8,12 @@
   <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
 </a>
 
-<div style="width: 600px; margin: 0 auto;">
+<article style="width: 600px; margin: 0 auto;">
   <p>🌱 My tech stack: HTML, CSS, JS, React</p>
   <p>🔬 Especially like: CSS</p>
   <p>👀 Hobbies other than coding: 📺 viewing interesting and useful videos</p>
   <p>📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com</p>
-</div>
+</article>
 
 <p align="center">
   <a href="#">
