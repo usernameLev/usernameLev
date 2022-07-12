@@ -1,4 +1,4 @@
-<a href='#'>
+<a href='#' style='postion: relative'>
   <img src='./assets/coding.gif' style='position: absolute; width: 200px; left: 200px'>
 </a>
 
