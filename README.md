@@ -1,6 +1,6 @@
-<div href='#' style='display: flex; flex-direction: column; align-items: center'>
-  <img src='./assets/coding.gif' style='width: 200px;'>
-</div>
+
+  <img src='./assets/coding.gif' align="right" width="100" height="100">
+
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
 
