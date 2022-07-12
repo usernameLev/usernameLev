@@ -8,7 +8,7 @@
   <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
 </a>
 
-<ul align="center">
+<ul style="width: 500px; margin: 0 auto">
   <li> 🌱 My tech stack: HTML, CSS, JS, React</li>
   <li> 🔬 Especially like: CSS</li>
   <li> 👀 Hobbies other than coding: 📺 viewing interesting and useful videos</li>
