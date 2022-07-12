@@ -1,5 +1,5 @@
 <a href='#'>
-  <img src='./assets/coding.gif' style='width: 200px; margin-left: 200px;'>
+  <img marginLeft='200px' src='./assets/coding.gif' style='width: 200px;'>
 </a>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
