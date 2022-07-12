@@ -19,8 +19,11 @@
     </a>
 </p>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons&contribs=true&count_private=true&bg_color=0D1117)
+  <a href="https://github.com/usernameLev/github-readme-stats">
+    <img alt="Lev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameLev&hide_langs_below=1&layout=compact&langs_count=6&exclude_repo=puzzle,quiz)
+  <a href="https://github.com/usernameLev/github-readme-stats">
+    <img alt="Lev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usernameLev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 
 <img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=usernameLev&bg_color=FFF&color=000&line=0969da&point=000&hide_border=true&hide_title=true" />
