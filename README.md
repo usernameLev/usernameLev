@@ -1,4 +1,4 @@
-<center style='width: 200px; text-align: center'>
+<center style='width: 200px; height: 200px'>
   <img src='./assets/coding.gif'>
 </center>
 
