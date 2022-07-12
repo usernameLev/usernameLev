@@ -1,4 +1,4 @@
-<div style='display: flex; width: 200px; margin: 0 auto'>
+<div style='width: 200px; text-align: center'>
   <img src='./assets/coding.gif'>
 </div>
 
