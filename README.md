@@ -1,5 +1,5 @@
 <center style='width: 200px; height: 200px'>
-  <img src='./assets/coding.gif'>
+  <img src='./assets/coding.gif' align='middle'>
 </center>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
