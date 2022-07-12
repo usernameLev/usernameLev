@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href='#'>
     <img src='./assets/coding.gif' width="600">
@@ -14,14 +13,8 @@
 - 👀 Hobbies other than coding: 📺 viewing interesting and useful videos
 - 📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com
 
-<a href='#'>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons&contribs=true&count_private=true)
-</a>
 
-<a href='#'>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernameLev&hide_langs_below=1&layout=compact&langs_count=6&exclude_repo=puzzle,quiz)
-</a>
 
-<a href='#'>
   <img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?    username=usernameLev&bg_color=FFF&color=000&line=0969da&point=000&hide_border=true&hide_title=true" />
-</a>
