@@ -1,4 +1,6 @@
-<img src='./assets/coding.gif'>
+<a href='#'>
+  <img src='./assets/coding.gif' width='200px;'>
+</a>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
 
