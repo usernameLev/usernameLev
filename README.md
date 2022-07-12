@@ -5,7 +5,9 @@
   </a>
 </p>
 
-<h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
+<a href='#'>
+  <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
+</a>
 
 - 🌱 My tech stack: HTML, CSS, JS, React
 - 🔬 Especially like: CSS
