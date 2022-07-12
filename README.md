@@ -13,17 +13,6 @@
 - 👀 Hobbies other than coding: 📺 viewing interesting and useful videos
 - 📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com
 
-<ul align="center">
-  <li>🌱 My tech stack: HTML, CSS, JS, React</li>
-  <li>
-    <ul>
-  <li>🌱 My tech stack: HTML, CSS, JS, React</li>
-  <li>🔬 Especially like: CSS</li>
-</ul>
-  </li>
-  <li>🔬 Especially like: CSS</li>
-</ul>
-
 <p align="center">
   <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=usernameLev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Lev's streak"  title="🔥 Get streak stats for your profile at git.io/streak-stats" />
