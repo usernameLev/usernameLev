@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<div align="center">
+<div style='display: flex; justify-content: space-around'>
     <a href="https://github.com/usernameLev?tab=repositories" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api?username=usernameLev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Lev's Github Stats" />
     </a>
@@ -29,4 +29,4 @@
   </a>
 </div>
 
-<img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=usernameLev&bg_color=FFF&color=000&line=0969da&point=000&hide_border=true&hide_title=true" alt="DenverCoder1's Activity Graph" />
+<img src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=usernameLev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=000&hide_border=true&hide_title=true" alt="DenverCoder1's Activity Graph" />
