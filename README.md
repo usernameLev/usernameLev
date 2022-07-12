@@ -13,7 +13,7 @@
 - 👀 Hobbies other than coding: 📺 viewing interesting and useful videos
 - 📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com
 
-<ul align='center' style="list-style: none">
+<ul style="list-style: none; text-align: center;">
   <li>🌱 My tech stack: HTML, CSS, JS, React</li>
   <li>🔬 Especially like: CSS</li>
 </ul>
