@@ -1,5 +1,9 @@
 <div style='display: block; width: 200px; margin: 0 auto'>
+<<<<<<< HEAD
   <img src='./assets/coding.gif'>
+=======
+  <img src='./assets/coding.gif' align='middle'>
+>>>>>>> 120ac32a0fe490fc047d80471ea398ac0570120b
 </div>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
