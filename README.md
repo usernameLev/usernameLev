@@ -9,10 +9,12 @@
 </a>
 
 <ul style="width: 600px; margin: 0 auto;">
-  <li>🌱 My tech stack: HTML, CSS, JS, React</li>
-  <li>🔬 Especially like: CSS</li>
-  <li>👀 Hobbies other than coding: 📺 viewing interesting and useful videos</li>
-  <li>📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com</li>
+  <ul>
+    <li>🌱 My tech stack: HTML, CSS, JS, React</li>
+    <li>🔬 Especially like: CSS</li>
+    <li>👀 Hobbies other than coding: 📺 viewing interesting and useful videos</li>
+    <li>📫 Telegram [@usernameLev](https://t.me/usernameLev), Email tyanlev1989@gmail.com</li>
+  </ul>
 </ul>
 
 <p align="center">
