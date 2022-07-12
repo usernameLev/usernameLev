@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src='./assets/coding.gif' width="600">
+  <a href='#'>
+    <img src='./assets/coding.gif' width="600">
+  </a>
 </p>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
