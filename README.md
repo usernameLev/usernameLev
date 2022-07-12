@@ -1,4 +1,4 @@
-<a href='#' style='display: inline; width: 100px;'>
+<a href='#' style='text-align: center; width: 100px;'>
   <img src='./assets/coding.gif' />
 </a>
 
