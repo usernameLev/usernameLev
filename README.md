@@ -1,7 +1,7 @@
 <p align="center">
-  <a href='#'>
+ 
     <img src='./assets/coding.gif' width="600">
-  </a>
+
 </p>
 
 <a href='#'>
