@@ -1,7 +1,6 @@
 
-  <img src='./assets/coding.gif' align="center" width="100" height="100">
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+ <p align="center">
+  <img width="460" height="300" src='./assets/coding.gif'>
 </p>
 
 <h1 align='center'>Hi <img src='./assets/hi.gif' width='100'>, I’m Lev</h1>
